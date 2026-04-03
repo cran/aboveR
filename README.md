@@ -4,8 +4,9 @@
 
 [![R-CMD-check](https://github.com/chrislyonsKY/aboveR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/chrislyonsKY/aboveR/actions/workflows/R-CMD-check.yaml)
 [![CRAN status](https://www.r-pkg.org/badges/version/aboveR)](https://CRAN.R-project.org/package=aboveR)
-[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![codecov](https://app.codecov.io/gh/chrislyonsKY/aboveR/branch/main/graph/badge.svg)](https://app.codecov.io/gh/chrislyonsKY/aboveR)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ccebf90f72074ca68851f746b2524086)](https://app.codacy.com/gh/chrislyonsKY/aboveR/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 > LiDAR Terrain Analysis and Change Detection from Above
 
